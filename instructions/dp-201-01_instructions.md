@@ -1,7 +1,7 @@
 # DP 201 - Designing an Azure Data Platform Solution
 # Lab 1 - Azure Architecture Considerations
 
-**Estimated Time**: 60 minutes
+**Estimated Time**: 60 minutes 
 
 **Pre-requisites**: It is assumed that the case study for this lab has already been read.
 
