@@ -77,13 +77,13 @@ The main task for this exercise is as follows:
 
 > **Result**: After you completed this exercise, you have amended an architecture to include automation of an Enterprise BI solution in AdventureWorks.
 
-## Exercise 3: Automate enterprise BI solutions in Azure
+## Exercise 3: Conversational bot solutions in Azure
 
 **Group exercise**
   
 The main task for this exercise is as follows:
 
-1. Amend a high level Architecture to include automation of an Enterprise BI solution in AdventureWorks.
+1. Amend a high level Architecture to include automation of a conversational bot solution in AdventureWorks.
 
 ### Task 1: Architect an Enterprise-grade conversational bot in Azure
 

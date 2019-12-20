@@ -5,7 +5,7 @@
 
 **Pre-requisites**: It is assumed that the case study for this lab has already been read.
 
-**Lab files**: The files for this lab are located in the _Allfiles\Labfiles\Starter\DP-200.6_ folder.
+**Lab files**: The files for this lab are located in the _Allfiles\Labfiles\Starter\DP-201.6_ folder.
 
 ## Lab overview
 
@@ -43,9 +43,9 @@ The main task for this exercise are as follows:
 
 ### Task 1: Provide a link to the Azure Price Calculator and a list of best practises to minimize costs.
 
-1. From the lab virtual machine, start **Microsoft Word**, and open up the file **DP-200-Lab06-Ex01_Ta01.docx** from the **Allfiles\Labfiles\Starter\DP-200.6** folder.
+1. From the lab virtual machine, start **Microsoft Word**, and open up the file **DP-201-Lab06-Ex01_Ta01.docx** from the **Allfiles\Labfiles\Starter\DP-201.6** folder.
 
-1. As a group, spend **15 minutes** discussing and listing the best practise that the IS department should follow to minimize costs.
+1. As a group, spend **20 minutes** discussing and listing the best practise that the IS department should follow to minimize costs.
 
 > **Result**: After you completed this exercise, you have created a Microsoft Word document that provides a link to the Azure Price Calculator and a list of best practises to minimize costs.
 
@@ -59,9 +59,9 @@ The main task for this exercise are as follows:
 
 ### Task 1: Provide a link to the Azure Price Calculator and a list of best practises to minimize costs.
 
-1. From the lab virtual machine, start **Microsoft Word**, and open up the file **DP-200-Lab06-Ex02_Ta01.docx** from the **Allfiles\Labfiles\Starter\DP-200.6** folder.
+1. From the lab virtual machine, start **Microsoft Word**, and open up the file **DP-201-Lab06-Ex02_Ta01.docx** from the **Allfiles\Labfiles\Starter\DP-201.6** folder.
 
-1. As a group, spend **15 minutes** discussing and drafting a monitoring and analytics strategy that should be adopted by AdventureWorks.
+1. As a group, spend **20 minutes** discussing and drafting a monitoring and analytics strategy that should be adopted by AdventureWorks.
 
 > **Result**: After you completed this exercise, you have created a Microsoft Word document that provides a monitoring and analytics strategy that should be adopted by AdventureWorks.
 
@@ -75,8 +75,8 @@ The main task for this exercise are as follows:
 
 ### Task 1: Provide a link to the Azure Price Calculator and a list of best practises to minimize costs.
 
-1. From the lab virtual machine, start **Microsoft Word**, and open up the file **DP-200-Lab06-Ex0_Ta01.docx** from the **Allfiles\Labfiles\Starter\DP-200.6** folder.
+1. From the lab virtual machine, start **Microsoft Word**, and open up the file **DP-201-Lab06-Ex0_Ta01.docx** from the **Allfiles\Labfiles\Starter\DP-201.6** folder.
 
-1. As a group, spend **15 minutes** list the options for automation languages and approaches. Describe the difference between imperative and declarative automation.
+1. As a group, spend **20 minutes** list the options for automation languages and approaches. Describe the difference between imperative and declarative automation.
 
 > **Result**: After you completed this exercise, you have created a Microsoft Word document with a list the options for automation languages and approaches.

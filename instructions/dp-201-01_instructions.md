@@ -63,7 +63,7 @@ The main task for this exercise are as follows:
 
 ### Task 1: Identify the performance and scalability requirements of AdventureWorks.
 
-1. From your machine, start **Microsoft Word**, and open up the file **DP-200-Lab01.docx** from the **Allfiles\Labfiles\Starter\DP-200.1** folder.
+1. From your machine, start **Microsoft Word**, and open up the file **DP-201-Lab01.docx** from the **Allfiles\Labfiles\Starter\DP-201.1** folder.
 
 1. As a group, spend **15 minutes** discussing and listing the performance and scalability requirements that your group has identified within the case study document. Evidence should be provided from the case study.
 
@@ -79,7 +79,7 @@ The main task for this exercise are as follows:
 
 ### Task 1: Identify the availability and recoverability requirements of AdventureWorks.
 
-1. From your machine, start **Microsoft Word**, and open up the file **DP-200-Lab01.docx** from the **Allfiles\Labfiles\Starter\DP-200.1** folder.
+1. From your machine, start **Microsoft Word**, and open up the file **DP-201-Lab01.docx** from the **Allfiles\Labfiles\Starter\DP-201.1** folder.
 
 1. As a group, spend **15 minutes** discussing and listing the availability and recoverability requirements that your group has identified within the case study document. Evidence should be provided from the case study.
 
@@ -95,9 +95,9 @@ The main task for this exercise are as follows:
 
 ### Task 1: Identify the efficiency and operations requirements of AdventureWorks.
 
-1. From your machine, start **Microsoft Word**, and open up the file **DP-200-Lab01.docx** from the **Allfiles\Labfiles\Starter\DP-200.1** folder.
+1. From your machine, start **Microsoft Word**, and open up the file **DP-201-Lab01.docx** from the **Allfiles\Labfiles\Starter\DP-201.1** folder.
 
-1. As a group, spend **15 minutes** discussing and listing the availability and recoverability requirements that your group has identified within the case study document. Evidence should be provided from the case study.
+1. As a group, spend **15 minutes** discussing and listing the efficiency and operations requirements that your group has identified within the case study document. Evidence should be provided from the case study.
 
 > **Result**: After you completed this exercise, you have added to the Microsoft Word document that shows a table of requirements for AdventureWorks.
 

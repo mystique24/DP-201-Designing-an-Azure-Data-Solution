@@ -89,7 +89,7 @@ The main task for this exercise is as follows:
 
 1. As a group, spend **5 minutes** discussing and confirming which architecture that you have created so far that would form part of an Azure IoT reference architecture.
 
-> **Result**: After you completed this exercise, you have created an architecture to include an Enterprise-grade conversational bot in Azure.
+> **Result**: After you completed this exercise, you have created an architecture to include an Azure IoT reference architecture in Azure.
 
 ## Lab Review
 
