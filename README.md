@@ -25,4 +25,5 @@ The students will explore the range of security options that are available to pr
 The students will explore a range of resiliency and scale issues that would have to be considered when defining a solution architecture for an organization. They will first look at how they will incorporate scale into a solution. They will follow this by looking into storage and database performance, and how solutions can be made highly available. Finally, the student will investigate the issue of disaster recovery.
 
 ## Lab 6 - Design for Efficiency and Operations
-The students will explore way in which they can maximise the efficiency of using a cloud environment and how they can monitor and analyze operational efficiencies from the Azure portal. They will also look at how automation can be used to reduce effort and error.
+The students will explore way in which they can maximise the efficiency of using a cloud environment and how they can monitor and analyze operational effic
+iencies from the Azure portal. They will also look at how automation can be used to reduce effort and error.
